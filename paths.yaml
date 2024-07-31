@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/tbarnes/tbarnes-2024-7-31-9-50-51/:/
+ - /content/tbarnes/tbarnes-2024-7-31-9-50-51/metadata.json:/metadata.json
+ - /content/tbarnes/tbarnes-2024-7-31-9-50-51/redirects.json:/redirects.json
